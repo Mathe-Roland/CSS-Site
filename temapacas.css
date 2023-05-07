@@ -1,0 +1,627 @@
+
+.j-c-c{
+    justify-content: center;
+}
+
+.font-family{
+    font-family: Poppins, sans-serif;
+}
+
+.width100{
+    width: 100%;
+}
+.width80{
+    width: 80%;
+}
+.width50{
+    width: 50%;
+}
+.width30{
+    width: 30%;
+}
+
+.width100>.width80>h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 51px;
+    color: #22343D;
+}
+
+.price-table{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 51px;
+    color: #22343D;
+
+}
+
+
+
+.triangle-size{
+    height: 17px;
+    width: 20px;
+}
+
+.margin-horizontal{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+.contentcointainer{
+
+    max-width: 1120px;
+}
+
+#applogo{
+
+    height: 40px;
+    margin-right: 16px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.rowcentered{
+    align-items: center;
+}
+
+.nav-bar-wrapper{
+
+    justify-content: space-between;
+}
+
+.j-c-e{
+    justify-content: flex-end;
+}
+
+
+.links-container > a{
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 28px;
+    color: #22343D;
+}
+
+
+.primary-btn{
+    background: #02897A;
+    border-radius: 4px;
+    height: 43px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1em;
+    line-height: 24px;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+
+}
+
+.align-items-e{
+    align-items: flex-end;
+}
+
+
+.height-auto{
+    height: auto;
+}
+
+
+.background-img{
+    background-image: url('./img/amico.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+    background-position: center;
+    
+}
+
+.background-img2{
+    background-image: url('./img/Bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+  
+}
+
+.background-img3{
+    background-image: url('./img/amico2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 550px;
+}
+
+.background-img4{
+    background-image: url('./img/amico3.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.background-img5{
+    background-image: url('./img/amico4.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.background-img6{
+    background-image: url('./img/pozacucerc.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-img7{
+    background-image: url('./img/pozacucerc.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.background-color{
+    background-color: #FFFFFF;
+    
+}
+
+.color-white{
+    color: #FFFFFF;
+}
+
+.color-green{
+    color:#02897A
+}
+
+.pricetag-font-size{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 76px;
+    line-height: 100px;
+    /* identical to box height, or 132% */
+
+    text-align: center;
+    letter-spacing: 0.2px;
+
+}
+
+.pricetag-dollarsign{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    /* or 125% */
+
+    letter-spacing: 0.1px;
+}
+
+.pricetag-per-month{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    /* identical to box height, or 119% */
+
+    letter-spacing: 0.1px;
+    color: #E0E0E0;
+}
+
+.background-colorfor-price-t{
+    
+    background-color: #02897A;
+
+}
+
+.solidborder{
+    border: 2px solid blueviolet;
+}
+
+
+
+.button-outline{
+    background-color: #FFFFFF;
+    color: #173A56;
+    border: 1px solid #BCD0E5;
+    margin: 0 12px;
+}
+
+
+.switch-theme-btn{
+
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    background-color: #F3F3F3;
+    margin-left: 12px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #22343D;
+}
+
+.align-items-c{
+    align-items: center;
+}
+
+.align-self-e{
+    align-self: flex-end;
+}
+.justify-self-c{
+    justify-self: center
+}
+
+.justify-self-e{
+    justify-self: flex-end;
+}
+
+
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.w-h-icon{
+    width: 50px;
+    height: 50px;
+}
+
+.font{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.font-weight{
+    font-weight: 400;
+}
+
+.btn-link{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    text-decoration-line: underline;
+
+    color: #02897A;
+    background-color: transparent;
+    border: none;
+    white-space: pre;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
+.margin-right{
+
+    margin-right: 9px;
+}
+
+.margin-auto{
+    margin:auto;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
+}
+
+.height100{
+    height: 100%;
+}
+
+.height50{
+    height: 50%;
+}
+
+.subtitle{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #22343D;;
+}
+
+.horizontal{
+    text-align: center;
+}
+
+.menu{
+    display: none;
+    cursor: pointer;
+}
+#checkbox{
+    display: none;
+}
+
+.none{
+    display: none;
+}
+
+.action-button-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.section-row-4-cols{
+    display: grid;
+    grid-template-areas: 
+    'grid-col-1 grid-col-2 grid-col-3 grid-col-4';
+}
+.section-row-4-cols-item-1{
+    grid-area: grid-col-1;
+}
+
+.section-row-4-cols-item-2{
+    grid-area: grid-col-2;
+}
+
+.section-row-4-cols-item-3{
+    grid-area: grid-col-3;
+}
+
+.section-row-4-cols-item-4{
+    grid-area: grid-col-4;
+}
+
+.section-cols{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.content-s-p-f{
+    color: #22343D;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px; 
+}
+
+.color{
+    color:#02897A;
+}
+
+.steluta-marime{
+    width:18.34px;
+    height: 18.34px;
+}
+
+.commentphotosize{
+    width: 50px;
+    height: 50px;
+}
+
+.lastsection{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 151.4%;
+    /* or 48px */
+
+
+    color: #FFFFFF;
+}
+
+.lastsectionborderradius{
+    border-radius: 32px;
+}
+
+.lastbutton{
+    width: 150px;
+    height: 50px;
+    left: 51px;
+    top: 245px;
+
+    background: #FFFFFF;
+    border-radius: 8px
+}
+
+.margin-left{
+    margin-left: 50px;
+}
+
+.lastsectionimage{
+    width:32px;
+    height:29.09px;
+}
+
+footer>.width80>.column>a{
+    text-decoration: none;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1em;
+    color: #22343D;
+}
+
+footer>.width80>.column>a:hover{
+    text-decoration: underline;
+    color:#22343D;
+}
+
+.margintoplinks{
+    margin-top: 10px;
+}
+
+.footerinput-t{
+    height: 48px;
+    border-radius: 8px;
+    
+}
+
+@media screen and (max-width:920px){
+    .menu{
+        display: flex;
+    }
+  
+    .none{
+        display: flex;
+    }
+    .nav-bar-wrapper > .nav-bar-buttons-c {
+        position: absolute;
+        width: 100%;
+        top: 80px;
+        flex-direction: column;
+        background-color: #FFFFFF;
+        overflow-y: hidden;
+        border-radius: 10px;
+    }
+
+    .rowcentered > .links-container > a{
+        display: block;
+        width: 100%;
+    }
+    .rowcentered > .links-container > a:hover{
+        text-decoration: underline;
+    }
+
+    .action-button-container{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .nav-bar-buttons-c>.rowcentered{
+        justify-content: center;
+    }
+    .nav>#checkbox:not(:checked)~.nav-bar-wrapper>.nav-bar-buttons-c{
+        height: 0px;
+    }
+    
+    .nav>#checkbox:checked~.nav-bar-wrapper>.nav-bar-buttons-c{
+        max-height: 100vh;
+        height: auto;
+
+
+    }
+    .width100>.max-widthclass2{
+        display: flex;
+        flex-direction: column;
+    }
+    .width100>.width80>.column {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .max-widthclass3{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .width100 >.lastsectionborderradius{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .width100>.width80>.j-c-c{
+        width: 100%;
+        
+    }
+
+    footer>.width80{
+        flex-direction: column;
+       
+    }
+    footer>.width80>.column{
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
+@media screen and (max-width:580px){
+    .section-row-4-cols{
+        grid-template-areas: 
+        'grid-col-1'
+        'grid-col-2' 
+        'grid-col-3' 
+        'grid-col-4'
+        ;
+    }
+    .width80>.column{
+        width: 100%;
+    }
+    .section-w-h{
+        height: 1000px;
+        width: 100%;
+    }
+
+    
+}
+
+@media screen and (max-width:880px){
+
+    .section1{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .section2{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100%;
+        text-align: center;
+    }
+    .section3{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        
+    }
+    .section4{
+        display: flex;
+        flex-direction: column;
+    }
+    .background-img7>.row{
+        display: flex;
+        flex-direction: column;
+
+    }
+    
+    .width100>.width80>.max-widthclass{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .width100>.width80>.max-widthclass>.width30{
+        width: 100%;
+        margin-top: 30px;
+    }
+   
+   
+}
+
